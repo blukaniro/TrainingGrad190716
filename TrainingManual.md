@@ -3,8 +3,8 @@
   
 ## ImageJをダウンロード  
 以下のサイトにアクセスして後は指示に従う．  
-https://imagej.net/Welcome  
-  
+https://imagej.net/Welcome
+https://imagej.nih.gov/ij/download.html  
   
 ## Rをダウンロード  
 以下のサイトにアクセスして後は指示に従う．  
