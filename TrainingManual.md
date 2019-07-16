@@ -5,6 +5,7 @@
 以下のサイトにアクセスして後は指示に従う．  
 https://imagej.net/Welcome  
 https://imagej.nih.gov/ij/download.html  
+https://fiji.sc  
   
 ## Rをダウンロード  
 以下のサイトにアクセスして後は指示に従う．  
